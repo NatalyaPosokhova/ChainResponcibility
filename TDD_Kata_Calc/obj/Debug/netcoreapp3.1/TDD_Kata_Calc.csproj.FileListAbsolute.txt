@@ -1,0 +1,8 @@
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\bin\Debug\netcoreapp3.1\TDD_Kata_Calc.deps.json
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\bin\Debug\netcoreapp3.1\TDD_Kata_Calc.dll
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\bin\Debug\netcoreapp3.1\TDD_Kata_Calc.pdb
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\obj\Debug\netcoreapp3.1\TDD_Kata_Calc.AssemblyInfoInputs.cache
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\obj\Debug\netcoreapp3.1\TDD_Kata_Calc.AssemblyInfo.cs
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\obj\Debug\netcoreapp3.1\TDD_Kata_Calc.csproj.CoreCompileInputs.cache
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\obj\Debug\netcoreapp3.1\TDD_Kata_Calc.dll
+C:\Users\NPosokhova\Source\Repos\TDD_Kata\TDD_Kata_Calc\obj\Debug\netcoreapp3.1\TDD_Kata_Calc.pdb
